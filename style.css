@@ -69,4 +69,21 @@ p {
 .main {
     width: 73%;
 }
-
+.container2 {
+    display: flex;
+    justify-content: center;
+}
+img {
+    border-radius: 3px;
+}
+.heading2 {
+    display: flex;
+    justify-content: center;
+    font-size: 28px;
+}
+.number1, .number2, .number3, .number4 {
+    display: flex;
+    flex-direction: column;
+    width: 10%;
+    margin: 12px;
+}
