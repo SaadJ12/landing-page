@@ -33,6 +33,7 @@ button {
     padding: 5px;
     padding-left: 15px;
     padding-right: 15px;
+    border-color: #3882F6;
 }
 
 p {
@@ -114,4 +115,37 @@ img {
     padding: 70px;
     padding-left: 100px;
     padding-right: 100px;
+}
+.footer {
+    background-color: #3882F6;
+    margin: 50px 30px 50px 50px;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    color: #f9faf8;
+    border-radius: 5px;
+}
+.container4 {
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+}
+.button2 {
+    margin-top: 19px;
+    color: #f9faf8;
+    border-style: solid;
+    border-color: #ffffffb6;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.last {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    padding: 14px;
+    font-size: 12px;
+    color: #f9faf8f5;
+    font-weight: 100;
+    margin-top: 60px;
 }
